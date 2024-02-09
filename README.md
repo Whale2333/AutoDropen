@@ -10,7 +10,7 @@ AutoDropen is modified and improved base on [Dropen](https://doi.org/10.17632/wz
 # How to use
 Before run the code, make sure that your MATLAB has installed the **Image Processing Toolbox**.
 
-**Step1**: open'AutoDropen_main.m'
+**Step1**: open'AutoDropen_main.m
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step1.png)
 
 **Step2**: set the input parameters 'scale' and 'Imag_suff'. 'scale' means the number of pixels in the image equal to 1mm. 'Imag_suff' means the images suffix, such as jpg,bmp,jpeg.
