@@ -10,16 +10,16 @@ AutoDropen is modified and improved base on [Dropen](https://doi.org/10.17632/wz
 # How to use
 Before run the code, make sure that your MATLAB has installed the **Image Processing Toolbox**.
 
-**Step1**: open'AutoDropen_main.m
+**Step1**: open `AutoDropen_main.m`
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step1.png)
 
-**Step2**: set the input parameters 'scale' and 'Imag_suff'. 'scale' means the number of pixels in the image equal to 1mm. 'Imag_suff' means the images suffix, such as jpg,bmp,jpeg.
+**Step2**: set the input parameters `scale` and `Imag_suff`. `scale` means the number of pixels in the image equal to 1mm. `Imag_suff` means the images suffix, such as jpg,bmp,jpeg.
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step2.png)
 
 **Step3**: run the code and choose the images folder. Make sure that all the images have same suffix.
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step3.png)
 
-**Step4**: select where to crop the images. It is necessary to crop out the irrelevant background to improve the accuracy of the contact angle analysis. \n
+**Step4**: select where to crop the images. It is necessary to crop out the irrelevant background to improve the accuracy of the contact angle analysis.  
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step4.png)
 
 **Step5**: The code will continue work until all images have been analyzed and a excel document will be generated.
