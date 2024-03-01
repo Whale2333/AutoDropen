@@ -13,7 +13,7 @@ Before run the code, make sure that your MATLAB has installed the **Image Proces
 **Step1**: open `AutoDropen_main.m`
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step1.png)
 
-**Step2**: set the input parameters `scale` and `Imag_suff`. `scale` means the number of pixels in the image equal to 1mm. `Imag_suff` means the images suffix, such as jpg,bmp,jpeg.
+**Step2**: set the input parameters `scale` and `Imag_suff`. The `scale` means the number of pixels equal to 1mm in the image, that you can obtain by taking a picture of a ruler. The `scale` is used for dertermining the droplet diameter. If you only need the contact angle, you don't have to change it. The `Imag_suff` means the images suffix, such as jpg,bmp,jpeg.
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step2.png)
 
 **Step3**: run the code and choose the images folder. Make sure that all the images have same suffix.
