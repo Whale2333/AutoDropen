@@ -1,5 +1,5 @@
 # AutoDropen
-AutoDropen is a fully automatic drop image analysis software in order to study the wetting properties of solid surfaces. It can analyze drop images in batches at one time, and output informations of left contact angle, right contact angle, average contact angle, and drop diameter. This software is developed in **MATLAB**.
+AutoDropen is a fully automatic drop image analysis software in order to study the wetting properties of solid surfaces. It can analyze drop images in batches at one time, and output informations of left contact angle, right contact angle, average contact angle, and drop diameter. The software is intended solely for individual educational or research purposes and is strictly prohibited from being utilized for commercial use.
 
 AutoDropen is modified and improved base on [Dropen](https://doi.org/10.17632/wzchzbm58p.3), which is developed by Akbari. Therefore, please cite the following papers when you using AutoDropen in your study:
 
@@ -8,7 +8,7 @@ AutoDropen is modified and improved base on [Dropen](https://doi.org/10.17632/wz
 [2] R. Akbari, C. Antonini, Contact angle measurements: From existing methods to an open-source tool, Advances in Colloid and Interface Science 294 (2021) 102470. https://doi.org/10.1016/j.cis.2021.102470.
 
 # How to use
-Before run the code, make sure that your MATLAB has installed the **Image Processing Toolbox**.
+This software is developed in **MATLAB**. Before run the code, make sure that your MATLAB has installed the **Image Processing Toolbox**.
 
 **Step1**: open `AutoDropen_main.m`
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step1.png)
