@@ -22,7 +22,7 @@ Before run the code, make sure that your MATLAB has installed the **Image Proces
 **Step4**: crop the images. It is necessary to crop out the irrelevant background to improve the accuracy of the contact angle analysis. Remerber to retain partial reflection shadows to help the code identify the edge point.
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step4.png)
 
-**Step5**: The code will continue work until all images have been analyzed, then a excel document will be generated.
+**Step5**: The code will continue work until all images have been analyzed, then a excel will be generated that contains left contact angle, right contact angle, average contact angle, and drop diameter.
 ![](https://github.com/Whale2333/AutoDropen/blob/main/How%20to%20use/Step5.png)
 
  
