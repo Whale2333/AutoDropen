@@ -3,9 +3,9 @@ AutoDropen is a fully automatic drop image analysis software in order to study t
 
 AutoDropen is modified and improved base on [Dropen](https://doi.org/10.17632/wzchzbm58p.3), which is developed by Akbari. Therefore, please cite the following papers when you using AutoDropen in your study:
 
-[1]
+[1] Fu, G., Li, Y., Fan L. Temperature dependence of the dynamic contact angles of water on a smooth stainless-steel surface under elevated pressures. Langmuir 2024;40:10217–27. https://doi.org/10.1021/acs.langmuir.4c00503.
 
-[2] R. Akbari, C. Antonini, Contact angle measurements: From existing methods to an open-source tool, Advances in Colloid and Interface Science 294 (2021) 102470. https://doi.org/10.1016/j.cis.2021.102470.
+[2] Akbari, R.; Antonini, C. Contact angle measurements: From existing methods to an open-source tool, Adv. Colloid Interface Sci. 2021, 294:102470. https://doi.org/10.1016/j.cis.2021.102470.
 
 # How to use
 This software is developed in **MATLAB**. Before run the code, make sure that your MATLAB has installed the **Image Processing Toolbox**.
